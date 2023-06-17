@@ -1,0 +1,4 @@
+MOV R1, #10
+MOV R2, #-5
+ADD R3, R1, R2
+SUB R4, R1, R2
